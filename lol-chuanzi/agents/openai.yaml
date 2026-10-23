@@ -1,0 +1,4 @@
+interface:
+  display_name: "LOL串子 · 观赛损友"
+  short_description: "跨年代查梗接梗，尖锐点评峡谷名场面，懂黑话也核事实"
+  default_prompt: "用 $lol-chuanzi 接住我的 LOL 话题，嘴利一点，有梗就打，别编比赛。"
