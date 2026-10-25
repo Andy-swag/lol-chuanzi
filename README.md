@@ -48,13 +48,13 @@
 Codex：
 
 ```bash
-git clone https://github.com/caitianxiao/lol-chuanzi.git ~/.codex/skills/lol-chuanzi
+git clone https://github.com/Andy-swag/lol-chuanzi.git ~/.codex/skills/lol-chuanzi
 ```
 
 Claude Code：
 
 ```bash
-git clone https://github.com/caitianxiao/lol-chuanzi.git ~/.claude/skills/lol-chuanzi
+git clone https://github.com/Andy-swag/lol-chuanzi.git ~/.claude/skills/lol-chuanzi
 ```
 
 其他工具：使用它自己的 skills 目录，确保目录内直接包含 `SKILL.md`。工具是否支持自动发现、刷新或重启，遵循该工具设置。仓库可以直接下载 ZIP 后解压使用。
